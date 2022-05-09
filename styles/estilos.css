@@ -1,0 +1,37 @@
+div {
+    border-top-width: 0px;
+    border-right-width: 0em;
+    border-bottom-width: thick;
+    border-left-width: black;
+    border-color: black;
+  
+  }
+
+  body {
+    font-style: italic;
+    color: red;
+    background-color: blue;
+  }
+
+  h1{
+    font-size: large;
+  }
+
+  img foto{
+    display: block;
+    margin: 0px auto;
+  }
+  .csharp{
+    display: flex;
+  }
+  .fotoA{
+    text-align: center;
+  }
+
+  .java{
+    text-align: right;
+  }
+
+  .csharp{
+    text-align: left;
+  }
